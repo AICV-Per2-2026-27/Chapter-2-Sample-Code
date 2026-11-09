@@ -1,4 +1,4 @@
 datasets/**
 **/.DS_Store
 **/__pycache__/**
-*.pt
+**/*.pt
